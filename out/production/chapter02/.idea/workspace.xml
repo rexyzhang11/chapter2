@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06380e84-9d1a-4f8d-a4d5-455f2f4771f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aWvh0pT7Y2I6NGJamrlt28p1bJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hgs.main.AppMain" />
+      <module name="chapter02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hgs.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06380e84-9d1a-4f8d-a4d5-455f2f4771f0" name="Default Changelist" comment="" />
+      <created>1586864280113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586864280113</updated>
+      <workItem from="1586864283037" duration="2362000" />
+      <workItem from="1586871516343" duration="483000" />
+      <workItem from="1586872089073" duration="539000" />
+      <workItem from="1586915527515" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="197" key="#Notifications" timestamp="1586871675799">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="496" y="197" key="#Notifications/0.23.1792.1017@0.23.1792.1017" timestamp="1586871675799" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586864838604">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586864838604" />
+    <state width="875" height="317" key="GridCell.Tab.0.bottom" timestamp="1586872555416">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586872555416" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1586870636643" />
+    <state width="875" height="317" key="GridCell.Tab.0.center" timestamp="1586872555415">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586872555415" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1586870636642" />
+    <state width="875" height="317" key="GridCell.Tab.0.left" timestamp="1586872555415">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586872555415" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1586870636642" />
+    <state width="875" height="317" key="GridCell.Tab.0.right" timestamp="1586872555416">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="875" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586872555416" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1586870636642" />
+    <state x="384" y="99" key="SettingsEditor" timestamp="1586872345675">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="99" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586872345675" />
+    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1586871695492" />
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1586915648700">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586915648700" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586871517784" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586872634492">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586872634492" />
+  </component>
+</project>
